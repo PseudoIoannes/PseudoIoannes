@@ -1,4 +1,6 @@
-pseudoioannes@gmail.com \n
-linkedin.com/in/pseudoioannes/
-codewars.com/users/PseudoIoannes
+* pseudoioannes@gmail.com
+
+* [linkedin](linkedin.com/in/pseudoioannes)
+
+* [codewars](codewars.com/users/PseudoIoannes)
 

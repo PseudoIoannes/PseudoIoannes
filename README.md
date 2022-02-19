@@ -1,6 +1,6 @@
 * pseudoioannes@gmail.com
 
-* [linkedin](linkedin.com/in/pseudoioannes)
+* [linkedin](www.linkedin.com/in/pseudoioannes/)
 
-* [codewars](codewars.com/users/PseudoIoannes)
+* [codewars](www.codewars.com/users/PseudoIoannes/)
 
